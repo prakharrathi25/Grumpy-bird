@@ -1,4 +1,4 @@
-# Grumpy Bird
+# Grumpy Bird Application
 
 Grumpy Bird is a HTML canvas game which is a version of a vanilla Javascript Flappy bird game from scratch with particle effects and sprites. No frameworks and no libraries. 
 
